@@ -1,1 +1,1 @@
-¡[fotorpueba](https://github.com/Gotzon-Basaldua/ejemplo/blob/main/fotoprueba.png)
+![fotorpueba](https://github.com/Gotzon-Basaldua/ejemplo/blob/main/fotoprueba.png)
